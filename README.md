@@ -27,6 +27,14 @@ https://www.youtube.com/watch?v=pBtGvjzbx3g&t=26s
    - Topics on crop selection, planting strategies, and resource management.
    - Sharing of raw data across farms to enhance collaborative learning.
 
+## Constructs
+
+1. **Framework**
+   - React Native for the flexibility in deploying in both IOS and Android
+
+2. **Programming language**
+   - Typescript (stricter syntax but lesser issues and bug when deploying)
+
 ## Installation
 
 1. **Clone the Repository**
